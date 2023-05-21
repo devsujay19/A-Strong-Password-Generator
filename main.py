@@ -5,7 +5,7 @@ lower = 'abcdefghijklmnopqrstuvwxyz'
 # Upper case letters
 upper = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 # Symbols
-symbol = '!@#$%^&*+=/-`~(){}[]?<>.,;:'
+symbol = '!@#$%^&*+=/-`~(){}[]?<>.,;:$_|•√π÷×§∆\}{=°^¥€¢£©®™✓[]'
 # Numbers
 number = '1234567890'
 # Adding those strings
